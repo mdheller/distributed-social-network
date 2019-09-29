@@ -1,0 +1,4 @@
+{!9!} <!Ross!>
+Hi friends! This is a multicase message!
+{!2!} <!Ross!>
+Hi Friends

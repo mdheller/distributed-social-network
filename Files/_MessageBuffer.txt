@@ -1,0 +1,19 @@
+{!9!} <!Ross!> [!_Friends!]
+Hi friends! This is a multicase message!
+{!8!} <!Ross!> [!#All!]
+This is a broadcast message by Ross
+
+{!7!} <!Ross!> [!Joey!]
+Yes joey! Bring Sandwitches
+{!6!} <!Joey!> [!Ross!]
+Ross you coming?
+{!5!} <!Joey!> [!#All!]
+Lets go to monicas apartment
+{!4!} <!Monica!> [!#All!]
+Come to my apartment
+{!3!} <!Monica!> [!Ross!]
+Hi Bro
+{!2!} <!Ross!> [!_Friends!]
+Hi Friends
+{!1!} <!Ross!> [!#All!]
+Hi all
